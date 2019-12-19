@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "􀀀/ /W3C/ /DTD XHTML 1 . 0 S t r i c t / / EN"" h t t p : / /www.w3 . org /TR/ xhtml1 /DTD/ x h tml 1􀀀s t r i c t . d t d ">
+
+<html xmlns= " h t t p s : / /www.w3 . org /TR/ xhtml1 / " xml : l ang= " f r ">
+	<head>
+		<title>Garfield et Patapouf</title>
+
+		<meta charset= "UTF-8"/>
+		
+		<meta name= "Les races des chats" content= "Sheykman"/>
+		
+		<meta name= " description " content= "Voici LE site des différentes races de chats"/>
+		
+		<link rel="stylesheet" media="screen" type="text/css" title="P&G's style" href="style.css"/>
+	
+		<link rel="icon" href="Images/favicon.ico" />
+
+	</head>
+	
+	<body>
+
+		<h1 class="Titrebd">Garfield and Patapouf's association</h1>
+		
+		<nav>
+		
+			<label for="menu" class="menu">Menu</label>		<!-- sera utile pour que le site soit responsive -->
+			<input type="checkbox" id="menu" role="button">
+			
+			<ul>
+				
+				<li class="Accueil"> <a href="index.html" title="Accueil"> Accueil </a> 
+					<ul class="niveau2">
+						
+					</ul>
+					
+				</li>
+					
+				<li class="Lesracesdechats"> <a href="Lesracesdechat.html" title="Les races de chats"> Les Races de Chats </a> 
+					
+					<ul class="niveau2">
+						
+						<li><a href="Lesracesdechat.html#ancre1">N°1 à 5</a></li>
+							
+						<li><a href="Lesracesdechat.html#ancre2">N°6 à 10</a></li>
+							
+					</ul>
+					
+				</li>
+					
+				
+					
+				<li class="histoiredeschats"> <a href="histoiredeschats.html" title="L'histoire des chats"> L'histoire des Chats </a>
+					<ul class="niveau2">
+						
+						<li><a href="histoiredeschats.html#éty">Étymologie</a></li>
+							
+					</ul> 
+				</li>
+					
+					
+				<li class="Contact"> <a href="Contact.html" title="Contact"> Contact </a> 
+				
+					<ul class="niveau2">
+						
+						<li><a href="Contact.html#Arnaud">Arnaud aka Garfield</a></li>
+							
+						<li><a href="Contact.html#Théo">Théo aka Patapouf</a></li>
+							
+					</ul>
+				
+				</li>
+				
+			</ul>
+			
+		</nav>
+		
+		<br>
+		<br>
+		<br>
+		<h1>Les races de chats</h1>
+		
+		<br>
+		<p>Bienvenue ici vous trouverez les races de chats en fonctions de leurs numéros ! Cliquez sur les images pour vous dirigez sur les pages spécialisés sur ces chats</p>
+		
+		<br>
+		
+		<a href="Leschats/1a5.html">
+			<h1 id= "ancre1">Les 5 premières races de chats</h1>
+		</a>
+				
+			<br>
+			<a href="Leschats/1a5.html#chat1">	
+				<img class="dis" src="Images/Abyssin.jpg" width=15% height=15%>
+			</a> 
+			
+			<br>
+			<a href="Leschats/1a5.html#chat2">	
+				<img class="dis" src="Images/American_curl.jpg" width=15% height=15%>
+			</a>
+			
+			<br>
+			<a href="Leschats/1a5.html#chat3">
+				<img class="dis" src="Images/American_shorthair.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/1a5.html#chat4">	
+				<img class="dis" src="Images/American_wirehair.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/1a5.html#chat5">	
+				<img class="dis" src="Images/Anatoli.jpg" width=15% height=15%>
+			</a>
+
+		<a href="Leschats/6a10.html">
+			<h1 id= "ancre2">Les races de chats de 6 à 10</h1>
+		</a>
+
+
+			<br>
+			<a href="Leschats/6a10.html#chat6">	
+				<img class="dis" src="Images/Angora.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/6a10.html#chat7">	
+				<img class="dis" src="Images/Asian.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/6a10.html#chat8">
+				<img class="dis" src="Images/Australian_mist.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/6a10.html#chat9">
+				<img class="dis" src="Images/Balinais.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/6a10.html#chat10">
+				<img class="dis" src="Images/Bengal.jpg" width=15% height=15%>
+			</a>
+		
+		<a href="Leschats/11a15.html">
+			<h1 id= "ancre3">Les races de chats de 11 à 15</h1> 	<!--changer les images-->	
+		</a>
+
+			<a href="Leschats/11a15.html#chat11">	
+				<img class="dis" src="Images/Abyssin.jpg" width=15% height=15%>
+			</a> 
+			
+			<br>
+			<a href="Leschats/11a15.html#chat12">	
+				<img class="dis" src="Images/American_curl.jpg" width=15% height=15%>
+			</a>
+			
+			<br>
+			<a href="Leschats/11a15.html#chat13">
+				<img class="dis" src="Images/American_shorthair.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/11a15.html#chat14">	
+				<img class="dis" src="Images/American_wirehair.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/11a15.html#chat15">	
+				<img class="dis" src="Images/Anatoli.jpg" width=15% height=15%>
+			</a>
+
+		<a href="Leschats/16a20.html">
+			<h1 id= "ancre4">Les races de chats de 16 à 20</h1>*
+		</a>
+
+
+			<br>
+			<a href="Leschats/16a20.html#chat16">	
+				<img class="dis" src="Images/Angora.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/16a20.html#chat17">	
+				<img class="dis" src="Images/Asian.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/16a20.html#chat18">
+				<img class="dis" src="Images/Australian_mist.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/16a20.html#chat19">
+				<img class="dis" src="Images/Balinais.jpg" width=15% height=15%>
+			</a>
+
+			<br>
+			<a href="Leschats/16a20.html#chat20">
+				<img class="dis" src="Images/Bengal.jpg" width=15% height=15%>
+			</a>
+		
+		<footer>
+			<p>Realized by Schultz Arnaud and Hiebel Théo aka Garfield and Patapouf</p>
+		</footer>
+	
+	</body>
+
+
+
+</html>
