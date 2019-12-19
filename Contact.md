@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "􀀀/ /W3C/ /DTD XHTML 1 . 0 S t r i c t / / EN"" h t t p : / /www.w3 . org /TR/ xhtml1 /DTD/ x h tml 1􀀀s t r i c t . d t d ">
+
+<html xmlns= " h t t p s : / /www.w3 . org /TR/ xhtml1 / " xml : l ang= " f r ">
+	<head>
+	
+		<title>Garfield et Patapouf</title>
+
+		<meta charset= "UTF-8"/>
+
+		<meta name= "Garfield et Patapouf" content= "Sheykman"/>
+
+		<meta name= " description " content= "Voici LE site des différentes races de chats"/>
+
+		<link rel="stylesheet" media="screen" type="text/css" title="Patapouf and Garfield's style" href="style.css"/>
+
+		<link rel="icon" href="Images/favicon.ico" />
+
+	</head>
+	<body>
+
+		<h1 class="Titrebd">Garfield and Patapouf's association</h1>
+	
+		 <nav>
+		
+			<label for="menu" class="menu">Menu</label>		<!-- sera utile pour que le site soit responsive -->
+			<input type="checkbox" id="menu" role="button">
+			
+			<ul>
+				
+				<li class="Accueil"> <a href="index.html" title="Accueil"> Accueil </a> 
+					<ul class="niveau2">
+						
+					</ul>
+					
+				</li>
+					
+				<li class="Lesracesdechats"> <a href="Lesracesdechat.html" title="Les races de chats"> Les Races de Chats </a> 
+					
+					<ul class="niveau2">
+						
+						<li><a href="Lesracesdechat.html#ancre1">N°1 à 5</a></li>
+							
+						<li><a href="Lesracesdechat.html#ancre2">N°6 à 10</a></li>
+							
+					</ul>
+					
+				</li>
+					
+				
+					
+				<li class="histoiredeschats"> <a href="histoiredeschats.html" title="L'histoire des chats"> L'histoire des Chats </a>
+					<ul class="niveau2">
+						
+						<li><a href="histoiredeschats.html#éty">Étymologie</a></li>
+							
+					</ul> 
+				</li>
+					
+					
+				<li class="Contact"> <a href="Contact.html" title="Contact"> Contact </a> 
+				
+					<ul class="niveau2">
+						
+						<li><a href="Contact.html#Arnaud">Arnaud aka Garfield</a></li>
+							
+						<li><a href="Contact.html#Théo">Théo aka Patapouf</a></li>
+							
+					</ul>
+				
+				</li>
+				
+			</ul>
+			
+		</nav> - <!-- ce tiret sert a mettre le bandeau en haut seulement sur la page contact -->
+
+		<h1>Contact</h1>
+
+		<p>Bonjour à vous jeunes pros des chats ! Voici la seule page de ce site qui ne parlera pas des chats mais de nous.</p>
+
+		<h2 id="Arnaud">Arnaud aka Garfield</h2>
+
+		<a href="Fiches/Arnaud.pdf" download=""><p>Télécharger la fiche d'information de Arnaud</p></a>
+
+
+
+		<h2 id="Théo">Théo aka Patapouf</h2>
+
+		<a href="Fiches/Théo.pdf" download=""><p>Télécharger la fiche d'information de Théo</p></a>
+
+		<a href="Fiches/Répartition.pdf" download=""><p>Télécharger la fiche d'information des répartitions des tâches</p></a>
+
+		
+		<footer>
+			<p>Realized by Schultz Arnaud and Hiebel Théo aka Garfield and Patapouf</p>
+		</footer> 
+		
+		
+		
+	</body>
+</html>
